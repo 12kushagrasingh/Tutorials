@@ -1,0 +1,19 @@
+Matplotlib is 2D and 3D plotting library.
+It can produce high quality graphs.
+It also supports animations also.
+
+Developed by American neurobiologist, John D. Hunter
+He wrote this in python and was released in 2003.
+
+Graphs it supports:
+1. Histogram
+2. Bar Charts
+3. Scatterplots
+4. Area Plot
+5. Pie Plot
+6. Error Charts
+7. Power Spectra
+
+It depends on the NumPy library to work.
+
+for more: https://matplotlib.org/2.0.2/Matplotlib.pdf
